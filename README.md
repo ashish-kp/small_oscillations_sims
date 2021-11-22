@@ -27,5 +27,5 @@ So, the systems are:
 
 5. Spring Pendulum
 
--![l_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{l}=l\dot{\theta}^2&plus;g(1-cos\theta)-\dfrac{k}{m}(l-l_0))
+- ![l_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{l}=l\dot{\theta}^2&plus;g(1-cos\theta)-\dfrac{k}{m}(l-l_0))
 - ![theta_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}=-\dfrac{g}{l}sin\theta-\dfrac{\dot{l}\dot{\theta}}{l})
