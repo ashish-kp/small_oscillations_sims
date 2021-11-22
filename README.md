@@ -29,3 +29,8 @@ So, the systems are:
 
 - ![l_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{l}=l\dot{\theta}^2&plus;g(1-cos\theta)-\dfrac{k}{m}(l-l_0))
 - ![theta_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}=-\dfrac{g}{l}sin\theta-\dfrac{\dot{l}\dot{\theta}}{l})
+
+6. Two simple pendulums coupled through a spring, attached to the masses.
+
+- ![theta1_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}_1=-\dfrac{g}{l_1}&space;sin\theta_1-\dfrac{k}{m_1}cos\theta_1(sin\theta_1-\dfrac{l_2}{l_1}sin\theta_2)])
+- ![theta2_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}_2=-m_2&space;\dfrac{g}{l_2}sin\theta_2&space;-&space;\dfrac{k}{m_2}cos\theta_2(sin\theta_2-\dfrac{l_1}{l_2}sin\theta_1))
