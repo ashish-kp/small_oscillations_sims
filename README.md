@@ -20,7 +20,7 @@ So, the systems are:
 - ![x_1ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{x}_1=\dfrac{1}{m_1}[(k_2(x_2-x_{02})-(x_1-x_{01}))-(k_1&plus;k_2)(x_1-x_{01})])
 - ![x_2ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{x}_1=\dfrac{1}{m_2}[((x_1-x_{01})-(x_2-x_{02}))&plus;(x_1-x_{01})])
 
-4. Two consecutive spring and ball systems suspended from a ceiling, under the action of gravity. [here](https://www.glowscript.org/#/user/p.b.ashish786/folder/onlysmalloscillations/program/springpendulum)
+4. Two consecutive spring and ball systems suspended from a ceiling, under the action of gravity. [here](https://www.glowscript.org/#/user/p.b.ashish786/folder/onlysmalloscillations/program/hanging2balls2springs)
 
 - ![y_1ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{y}_1&space;=&space;\dfrac{1}{m_1}[(k_1(y_1-y_{01}))&plus;(k_2(y_2-(y_1&plus;y_{02}))-(y_1-y_{01}))-(m_1&space;&plus;m_2)g])
 - ![y_2ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{y}_2=\dfrac{-k_2}{m_2}(y_2-(y_1&plus;y_{02})-(y_1-y_{01}))-g)
