@@ -1,6 +1,6 @@
 # small_oscillations_sims
 
-Here, there are the codes for certain very simplistic and ideal physical systems, which I encountered while learning about Small Oscillations. 
+Here are the codes for certain very simplistic and ideal physical systems, which I encountered while learning about Small Oscillations. 
 Hopefully, I'll write their E.O.Ms here, just for better understandability.
 
 So, the systems are:
