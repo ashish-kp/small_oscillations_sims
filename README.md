@@ -24,3 +24,8 @@ So, the systems are:
 
 - ![y_1ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{y}_1&space;=&space;\dfrac{1}{m_1}[(k_1(y_1-y_{01}))&plus;(k_2(y_2-(y_1&plus;y_{02}))-(y_1-y_{01}))-(m_1&space;&plus;m_2)g])
 - ![y_2ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{y}_2=\dfrac{-k_2}{m_2}(y_2-(y_1&plus;y_{02})-(y_1-y_{01}))-g)
+
+5. Spring Pendulum
+
+- ![l_ddoteqn0(https://latex.codecogs.com/gif.latex?\ddot{l}=l\dot{\theta}^2&plus;g(1-cos\theta)-\dfrac{k}{m}(l-l_0)
+- ![theta_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}=-\dfrac{g}{l}sin\theta-\dfrac{\dot{l}\dot{\theta}}{l})
