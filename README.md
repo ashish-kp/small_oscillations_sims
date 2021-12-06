@@ -34,3 +34,5 @@ So, the systems are:
 
 - ![theta1_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}_1=-\dfrac{g}{l_1}&space;sin\theta_1-\dfrac{k}{m_1}cos\theta_1(sin\theta_1-\dfrac{l_2}{l_1}sin\theta_2)])
 - ![theta2_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}_2=-m_2&space;\dfrac{g}{l_2}sin\theta_2&space;-&space;\dfrac{k}{m_2}cos\theta_2(sin\theta_2-\dfrac{l_1}{l_2}sin\theta_1))
+
+7. Double Pendulum [here](https://www.glowscript.org/#/user/p.b.ashish786/folder/onlysmalloscillations/program/doublependulum)
