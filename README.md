@@ -36,3 +36,5 @@ So, the systems are:
 - ![theta2_ddoteqn](https://latex.codecogs.com/gif.latex?\ddot{\theta}_2=-m_2&space;\dfrac{g}{l_2}sin\theta_2&space;-&space;\dfrac{k}{m_2}cos\theta_2(sin\theta_2-\dfrac{l_1}{l_2}sin\theta_1))
 
 7. Double Pendulum [here](https://www.glowscript.org/#/user/p.b.ashish786/folder/onlysmalloscillations/program/doublependulum)
+
+While double pendulum needs a seperate section for it's own, as of yet, it shall be a part of this repo. The double pendulum is the go-to example when people think of chaos and randomness.
